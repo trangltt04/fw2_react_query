@@ -14,5 +14,14 @@
       "description": "chua co mo ta cho san pham nay",
       "id": 4
     }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$jGOK9EJwdkQ6WJXE2QCCN.4FA34tSCRIixMj0I7Z90xlTbN/5OU82",
+      "username": "admin",
+      "confirmPassword": "123456",
+      "id": 1
+    }
   ]
 }
