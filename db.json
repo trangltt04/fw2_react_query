@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "product 2",
+      "price": 569,
+      "imageUrl": "https://picsum.photos/id/8/200/300",
+      "description": "chua co mo ta"
+    },
+    {
+      "id": 3,
+      "name": "product 3",
+      "price": 323,
+      "imageUrl": "https://picsum.photos/id/8/200/300",
+      "description": "chua co mo ta"
+    }
+  ]
+}
